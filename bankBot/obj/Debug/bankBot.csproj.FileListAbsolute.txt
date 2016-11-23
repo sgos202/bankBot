@@ -37,3 +37,4 @@ c:\users\sumee\documents\visual studio 2015\Projects\bankBot\bankBot\bin\ru\Micr
 c:\users\sumee\documents\visual studio 2015\Projects\bankBot\bankBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
 c:\users\sumee\documents\visual studio 2015\Projects\bankBot\bankBot\obj\Debug\Bot Application1.dll
 c:\users\sumee\documents\visual studio 2015\Projects\bankBot\bankBot\obj\Debug\Bot Application1.pdb
+C:\Users\sumee\documents\visual studio 2015\Projects\bankBot\bankBot\obj\Debug\bankBot.csproj.App.config
