@@ -5,14 +5,24 @@ using System.Web;
 
 namespace bankBot
 {
-    public class currencyObject
+    public class CurrencyObject
     {
-        public class RootObject
+        public class Rates
         {
-            public string @base { get; set; }
-            public DateTime date { get; set; }
-            public KeyValuePair<string, string> rates { get; set; }
-        }
+            public string NZD { get; set; }
+            public string AUD { get; set; }
+            public string EUR { get; set; }
+            public string JPY { get; set; }
+            public string GBP { get; set; }
+            public string CAD { get; set; }
+            public string CNY { get; set; }
+            public string USD { get; set; }
 
+        }
+        public class RatesObj
+        {
+            public Rates rates { get; set; }
+            public string @base { get; set; }
+        }
     }
 }
